@@ -10,6 +10,7 @@
         "cakephp/migrations": "^1.0",
         "cakephp/plugin-installer": "^1.0",
         "josegonzalez/dotenv": "2.*",
+        "microsoft/azure-storage": "^0.19.1",
         "mobiledetect/mobiledetectlib": "2.*"
     },
     "require-dev": {
